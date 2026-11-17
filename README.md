@@ -2,7 +2,7 @@
 
 #v0.0.1
 
-Fantasticons provides a full set of scalable vector icons, created and maintained by <a href="https://twitter.com/court_jordan">Courtney Jordan</a>. The set is in it's early stages and will be evolving in the future! Stay tuned for future releases and updates!
+Fantasticons provides a full set of scalable vector icons, created and maintained by <a href="https://twitter.com/streakydesign">Courtney Jordan</a>. The set is in it's early stages and will be evolving in the future! Stay tuned for future releases and updates!
 
 ##Updates
 
